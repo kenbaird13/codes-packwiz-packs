@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "command_history.txt"
-hash = "115a9eae483757a1107ecc189c9986e3e97b91ba3fe87d871fb9be1d11e136a1"
-
-[[files]]
-file = "emi.json"
-hash = "a2f4b467396bf91e991b76af761f5f245447b7f25cd759fffe441b1f3038ea39"
-
-[[files]]
 file = "icon.png"
 hash = "247dfe5bf4e6c33acadbc90e91a28d74ea25f0c1471264de2ddc0ca1a6ee7bbd"
 
@@ -130,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "324abdf18d9dcdf79974fead1862fb224af520e39b8a6e3a3be5392b3ddee504"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "a832de493f31251061455e1a473471d115ff875400ddeae78e35ae8c7868c3c1"
 metafile = true
 
 [[files]]
@@ -660,11 +657,3 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "159b17ace95edb79e0ac1defaa588d7d14c49a5af6d3b19767fbfff9a9d81627"
-
-[[files]]
-file = "usercache.json"
-hash = "599c7b54671c0662517b55b410d48aa800e33d39a8d8c7a99cba36238b277754"
-
-[[files]]
-file = "usernamecache.json"
-hash = "b39f7b1da589aa5a5e47188333646099b13574e5752247a71b6136e85578abea"
