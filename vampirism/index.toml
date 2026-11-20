@@ -60,6 +60,11 @@ hash = "d33eacd60e7db83d26089ee3561985f4729a38c3123b3d010d42c356fd34b4ce"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "8d3df6034a3533d724c73091e2bf57c23ea1c2f8aaee00838d73fb8b38b18b17"
 metafile = true
@@ -327,21 +332,6 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "6386f10b46056fc8f003d62715faab06527143bb9a9afb40f7e6a922abd74ede"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-brewery-farmcharm-compat.pw.toml"
-hash = "01a364cbdf7bd0273a6a413580d30c3adfc0605bc1d962846fc40e13d754a043"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-emi-compat.pw.toml"
-hash = "c460d03739da80cc5de0abfbe61063b2aa04a27961d5a7df8b19a7036af4c7d6"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-farm-charm.pw.toml"
-hash = "ac8b8ecefb0e8976d8f40b2d2e974f8b9ca6905522384b95cf0ad4f2cd1e119c"
 metafile = true
 
 [[files]]
