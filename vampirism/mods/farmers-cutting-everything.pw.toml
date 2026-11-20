@@ -1,0 +1,12 @@
+name = "Farmer's Cutting Everything"
+filename = "farmerscuttingeverything-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BEvzdiNE/versions/XcEPwTtZ/farmerscuttingeverything-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "aeaf6dc26a5ce33c7b08dd06c89c3f73a7f818d90e23a9edfa44b21b2905384626ee6d6126033830e4e956a8cf803f15621493277ef1c372673b23e70ee85e05"
+
+[update.modrinth]
+mod-id = "BEvzdiNE"
+version = "XcEPwTtZ"
