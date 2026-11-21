@@ -135,6 +135,16 @@ hash = "a832de493f31251061455e1a473471d115ff875400ddeae78e35ae8c7868c3c1"
 metafile = true
 
 [[files]]
+file = "mods/easy-tpa.pw.toml"
+hash = "24d575de33da449beb79e897b1bd28ea15b96085ffccb83e0655fe00c06ecd8b"
+metafile = true
+
+[[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "0bdddcb5c48cb5fb1fee738a7dcf0d06bcdaa95c6ec3e2ac85cc87ecad2d26ce"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "a7cf3d209b1a7814a389dba943ab90aa91115e47594facf0611981ab405597b7"
 metafile = true
