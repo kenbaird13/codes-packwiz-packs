@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "126080c09c4fbd8c1afc9ada2fd9511efe0f61ceeefd02d32e782e918fa29550"
+hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
 metafile = true
 
 [[files]]
